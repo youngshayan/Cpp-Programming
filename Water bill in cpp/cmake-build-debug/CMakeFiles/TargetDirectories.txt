@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Water bill in cpp/cmake-build-debug/CMakeFiles/Water_bill_in_cpp.dir
+C:/Users/user/CLionProjects/Water bill in cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Water bill in cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
